@@ -1,0 +1,9 @@
+[package]
+name = "common-log-parser"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.100"
+chrono = "0.4.43"
+regex = "1.12.2"
